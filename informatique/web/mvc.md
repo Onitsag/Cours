@@ -10,7 +10,7 @@ description: >-
 MVC proposé par Valentin Brosseau ([https://cours.brosseau.ovh/](https://cours.brosseau.ovh/))
 {% endfile %}
 
-Il est possible de lancer un serveur Web en local grâce à cette commande:
+Il est possible de lancer un serveur Web en local:
 
 ```shell
 # Windows (avec XAMPP)
