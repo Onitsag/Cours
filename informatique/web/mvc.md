@@ -6,6 +6,10 @@ description: >-
 
 # MVC
 
+{% file src="../../.gitbook/assets/mini-mvc-sample-1.8.rar" %}
+MVC proposé par Valentin Brosseau ([https://cours.brosseau.ovh/](https://cours.brosseau.ovh/))
+{% endfile %}
+
 Il est possible de lancer un serveur Web en local grâce à cette commande:
 
 ```shell
@@ -18,7 +22,3 @@ C:/wamp64/bin/php/php7.4.9/php -S localhost:9000
 # Linux / OSX
 php -S localhost:9000
 ```
-
-{% file src="../../.gitbook/assets/mini-mvc-sample-1.8.rar" %}
-MVC proposé par Valentin Brosseau ([https://cours.brosseau.ovh/](https://cours.brosseau.ovh/))
-{% endfile %}
