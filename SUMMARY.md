@@ -6,6 +6,7 @@
 
 * [💾 Git](<README (1).md>)
 * [🌐 Web](informatique/web/README.md)
+  * [MVC](informatique/web/mvc.md)
   * [PHP](informatique/web/php.md)
   * [CSS](informatique/web/css.md)
 
