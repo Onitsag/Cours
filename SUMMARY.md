@@ -12,5 +12,6 @@
 
 ## ⭐ Matières générales
 
-* [💸 Économie](matieres-generales/economie.md)
 * [📊 Mathématiques](matieres-generales/mathematiques.md)
+* [🇺🇸 Anglais](matieres-generales/anglais.md)
+* [💸 Économie](matieres-generales/economie.md)
