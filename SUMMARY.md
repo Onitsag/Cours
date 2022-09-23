@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👋 Bienvenue](README.md)
+* [🔗 Liens utiles](liens-utiles.md)
 
 ## 🖥 Informatique
 
