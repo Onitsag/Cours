@@ -20,17 +20,23 @@ Famille pauvre -> Appartement délabré, fenêtres à hauteur de la rue, inondat
 Famille riche -> Maison d'architecte bien entretenue, grand et beau jardin...
 {% endtab %}
 
-{% tab title="Essai sur l'architecture" %}
-
-{% endtab %}
-
 {% tab title="Construire une cabane dans les arbres" %}
+Cabane dans un arbre
+
+* Beaux paysages
+* Personnalisé
+* Rêves
+* Aventure
+* Pas forcément confortable
+
 
 {% endtab %}
 
 {% tab title="La folie du tout petit" %}
 Petites maisons
 
-
+* Peu couteux
+* Déplaçable
 {% endtab %}
 {% endtabs %}
+
