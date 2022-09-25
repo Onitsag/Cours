@@ -42,7 +42,9 @@ Petites maisons
 {% tab title="Dans les forêts de Sibérie" %}
 Habiter joyeusement des clairières sauvages vaut mieux que dépérir en ville.
 
-
+* Préparer sa propre nourriture
+* Vivre avec la nature
+* Éloigné de la civilisation
 {% endtab %}
 {% endtabs %}
 
