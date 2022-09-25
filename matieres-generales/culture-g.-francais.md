@@ -29,6 +29,8 @@ Famille riche -> Maison d'architecte bien entretenue, grand et beau jardin...
 {% endtab %}
 
 {% tab title="La folie du tout petit" %}
+Petites maisons
+
 
 {% endtab %}
 {% endtabs %}
