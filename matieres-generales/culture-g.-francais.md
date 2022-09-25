@@ -38,5 +38,11 @@ Petites maisons
 * Peu couteux
 * Déplaçable
 {% endtab %}
+
+{% tab title="Dans les forêts de Sibérie" %}
+Habiter joyeusement des clairières sauvages vaut mieux que dépérir en ville.
+
+
+{% endtab %}
 {% endtabs %}
 
