@@ -46,3 +46,6 @@ Habiter joyeusement des clairières sauvages vaut mieux que dépérir en ville.
 {% endtab %}
 {% endtabs %}
 
+## Casanier :
+
+Avantages : Apprendre à se connaître, développement personnel, moins de dépenses
