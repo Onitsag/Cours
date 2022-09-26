@@ -26,15 +26,23 @@ Si c'est gratuit, c'est toi le produit.
 ### Analyses et autres protections
 
 {% embed url="https://www.adlice.com/fr/roguekiller/" %}
+Permet de faire des analyses/scans du PC
+{% endembed %}
 
 {% embed url="https://fr.malwarebytes.com/" %}
+Permet de faire des analyses/scans du PC
+{% endembed %}
 
 {% embed url="https://fr.malwarebytes.com/adwcleaner/" %}
+Permet de faire des analyses/scans du PC
+{% endembed %}
 
 {% embed url="https://www.ccleaner.com/fr-fr/ccleaner/download" %}
+Optimise le PC, supprime des fichiers inutiles
+{% endembed %}
 
 ## Divers
 
 {% embed url="https://alternativeto.net/" %}
-**Trouve des logiciels alternatifs**
+Trouve des logiciels alternatifs
 {% endembed %}
