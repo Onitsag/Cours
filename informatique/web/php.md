@@ -2,6 +2,40 @@
 
 ## POO (Programmation Orientée Objet)
 
+La base :
+
+```php
+class SimpleClass
+{
+    // Déclaration d'une propriété
+    public $var = 'une valeur par défaut';
+    public $var2 = 'une valeur par défaut';
+
+    // Constructeur
+    function __construct($var, $var2)
+    {
+        $this->var = $var;
+        $this->var2 = $var2;
+    }
+
+    // Déclaration des méthodes
+    public function displayVar() {
+        echo $this->var;
+    }
+
+    public function setVar($var){
+        $this->var = $var;
+    }
+
+    public function setVar($var, $var2){
+        $this->var = $var;
+        $this->var2 = $var2;
+    }
+}
+```
+
+Exemple plus concret :
+
 ```php
 class Personne
 {
