@@ -7,8 +7,6 @@
 Le meilleur antivirus selon moi : [ESET](https://www.eset.com/fr/)
 
 {% embed url="https://www.eset.com/fr/" %}
-**Antivirus de qualité**
-{% endembed %}
 
 {% hint style="info" %}
 **ESET** a été conçu il y a **plus de 30 ans** et est mis à jour régulièrement **contre les nouvelles menaces**.\
