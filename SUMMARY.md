@@ -11,9 +11,9 @@
   * [PHP](informatique/web/php.md)
   * [CSS](informatique/web/css.md)
 
-## ⭐ Matières générales
+## ⭐ Cours
 
-* [📊 Mathématiques](matieres-generales/mathematiques.md)
-* [🇺🇸 Anglais](matieres-generales/anglais.md)
-* [💸 Économie](matieres-generales/economie.md)
-* [📖 Culture G. (Français)](matieres-generales/culture-g.-francais.md)
+* [📊 Mathématiques](cours/mathematiques.md)
+* [🇺🇸 Anglais](cours/anglais.md)
+* [💸 Économie](cours/economie.md)
+* [📖 Culture G. (Français)](cours/culture-g.-francais.md)
