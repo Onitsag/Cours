@@ -1,8 +1,14 @@
 # 🔗 Liens utiles
 
+## Sites utiles
+
+{% embed url="https://www.textstudio.fr/" %}
+
 ## Logiciels
 
 {% embed url="https://www.gitkraken.com/download" %}
+Gérer des dépôts GitHub / GitLab
+{% endembed %}
 
 ## Antivirus & Protections
 
