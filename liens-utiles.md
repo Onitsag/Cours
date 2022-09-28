@@ -3,6 +3,12 @@
 ## Sites utiles
 
 {% embed url="https://www.textstudio.fr/" %}
+Générer un logo personnalisé
+{% endembed %}
+
+{% embed url="https://alternativeto.net/" %}
+Trouver un logiciel alternatif à un autre
+{% endembed %}
 
 ## Logiciels
 
@@ -49,10 +55,4 @@ Permet de faire des analyses/scans du PC
 
 {% embed url="https://www.ccleaner.com/fr-fr/ccleaner/download" %}
 Optimise le PC, supprime des fichiers inutiles
-{% endembed %}
-
-## Divers
-
-{% embed url="https://alternativeto.net/" %}
-Trouve des logiciels alternatifs
 {% endembed %}
