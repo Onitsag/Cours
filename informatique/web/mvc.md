@@ -22,3 +22,13 @@ C:/wamp64/bin/php/php7.4.9/php -S localhost:9000
 # Linux / OSX
 php -S localhost:9000
 ```
+
+## Création Model & Controller
+
+```shell
+#Création d'un Model
+C:\xampp\php\php mvc model:create NomModel
+
+#Création d'un Controller
+C:\xampp\php\php mvc controller:create NomController
+```
