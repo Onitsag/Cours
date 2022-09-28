@@ -54,5 +54,5 @@ Permet de faire des analyses/scans du PC
 {% endembed %}
 
 {% embed url="https://www.ccleaner.com/fr-fr/ccleaner/download" %}
-Optimise le PC, supprime des fichiers inutiles
+Optimise le PC, supprime les fichiers inutiles
 {% endembed %}
