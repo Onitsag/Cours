@@ -1,6 +1,6 @@
 # 🔵 1 - Ensembles
 
-## I - Définir un Ensemble
+## Définir un Ensemble
 
 On peut définir une ensemble E en :&#x20;
 
