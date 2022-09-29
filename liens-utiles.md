@@ -6,6 +6,10 @@
 Générer un logo personnalisé
 {% endembed %}
 
+{% embed url="https://lecoupa.github.io/awesome-cheatsheets/" %}
+Les bases à connaître dans la plupart des langages
+{% endembed %}
+
 {% embed url="https://alternativeto.net/" %}
 Trouver un logiciel alternatif à un autre
 {% endembed %}
