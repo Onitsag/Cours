@@ -17,6 +17,7 @@ Pour une notation simplifiée sur le site, je représente A barre sous cette for
 \
 A \ B = A **∩ **~~**B**~~\
 ~~~~A Δ B = (A **∪** B) \ (A **∩** B)\
-A Δ B = (A **∪** B) **∩ **~~**(A ∩ B)**~~
+A Δ B = (A **∪** B) **∩ **~~**(A ∩ B)**~~\
+~~****~~A Δ B = (A **∪** B) **∩** (~~**A**~~ ∪ ~~**B**~~)
 {% endhint %}
 

@@ -14,7 +14,7 @@
 ## ⭐ Cours
 
 * [🦤 Mathématiques](cours/mathematiques/README.md)
-  * [🔵 1 - Ensembles](cours/mathematiques/1-ensembles.md)
+  * [🔵 1 - Ensembles](cours/mathematiques.md)
 * [🇺🇸 Anglais](cours/anglais.md)
 * [💸 Économie](cours/economie.md)
 * [📖 Culture G. (Français)](cours/culture-g.-francais.md)
