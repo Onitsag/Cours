@@ -54,3 +54,17 @@ ExF = { {a; 1} ; {a; 2} ; {a; 3} ; {b; 1} ; {b; 2} ; {b; 3} ; {c; 1} ; {c; 2} ; 
 {% endhint %}
 
 <img src="../../.gitbook/assets/file.drawing (3).svg" alt="" class="gitbook-drawing">
+
+## Injection - Surjection
+
+{% hint style="success" %}
+<mark style="color:green;">Injective</mark> = quand les images possèdent **maximum 1 antécédent** (interdiction d'avoir plusieurs antécédents)
+{% endhint %}
+
+{% hint style="success" %}
+<mark style="color:green;">Surjective</mark> = quand toutes les images sont reliées à un antécédent
+{% endhint %}
+
+{% hint style="success" %}
+<mark style="color:green;">Bijective</mark> = Injective + Surjective (donc **chaque image** possède **1 antécédent)**
+{% endhint %}
