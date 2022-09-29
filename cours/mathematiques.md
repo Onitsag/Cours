@@ -12,8 +12,7 @@ Le <mark style="color:green;">**CARDINAL**</mark> est le nombre d'éléments que
 <figure><img src="https://jeretiens.net/wp-content/uploads/2018/12/ensemble_des_nombres_math%C3%A9matiques_n_z_d_q_r.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Pour une notation simplifiée sur le site, je représente A barre sous cette forme : \
-~~<mark style="color:blue;">**A**</mark>~~ = A(barre)\
+Pour une notation simplifiée sur le site, je représente A barre sous cette forme : ~~<mark style="color:blue;">**A**</mark>~~\
 \
 A \ B = A **∩ **~~**B**~~\
 ~~~~A Δ B = (A **∪** B) \ (A **∩** B)\
