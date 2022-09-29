@@ -1,4 +1,4 @@
-# 🔵 1 - Ensembles
+# 🔵 Ensembles
 
 ## Définir un Ensemble
 
@@ -30,3 +30,27 @@ E = {a; b}\
 F = {1; 2; 3}\
 \
 ExF = { {a; 1} ; {a; 2} ; {a; 3} ; {b; 1} ; {b; 2} ; {b; 3} ; {c; 1} ; {c; 2} ; {c; 3} }
+
+## Relations binaires
+
+{% hint style="success" %}
+<mark style="color:green;">Réflexive</mark> = tous les points doivent être reliés avec eux même
+{% endhint %}
+
+<img src="../../.gitbook/assets/file.drawing (1).svg" alt="" class="gitbook-drawing">
+
+{% hint style="success" %}
+<mark style="color:green;">Symétrique</mark> =  si le point <mark style="color:blue;">a</mark> est relié au point <mark style="color:red;">b</mark>, c'est équivalent à ce que le point <mark style="color:red;">b</mark> soit relié au point <mark style="color:blue;">a</mark>
+{% endhint %}
+
+<img src="../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
+
+{% hint style="success" %}
+<mark style="color:green;">Antisymétrique</mark> =
+{% endhint %}
+
+{% hint style="success" %}
+<mark style="color:green;">Transitive</mark> = si le point <mark style="color:blue;">a</mark> est relié au point <mark style="color:red;">b</mark> et que le point <mark style="color:red;">b</mark> est relié au point <mark style="color:yellow;">c</mark>, ça **implique** que le point <mark style="color:blue;">a</mark> est relié au point <mark style="color:yellow;">c</mark>
+{% endhint %}
+
+<img src="../../.gitbook/assets/file.drawing (3).svg" alt="" class="gitbook-drawing">
