@@ -26,3 +26,8 @@ A Δ B = (A **∪** B) **∩ **~~**(A ∩ B)**~~\
 ## Produit Cartésien
 
 <figure><img src="https://media.discordapp.net/attachments/884824217110061117/1025169498514403388/unknown.png?width=1063&#x26;height=754" alt=""><figcaption></figcaption></figure>
+
+E = {a; b}\
+F = {1; 2; 3}\
+\
+ExF = { {a; 1} ; {a; 2} ; {a; 3} ; {b; 1} ; {b; 2} ; {b; 3} ; {c; 1} ; {c; 2} ; {c; 3} }
