@@ -6,9 +6,9 @@ description: >-
 
 # MVC
 
-{% file src="../../.gitbook/assets/mini-mvc-sample-1.8.rar" %}
+{% embed url="https://github.com/c4software/mini-mvc-sample/releases" %}
 MVC proposé par Valentin Brosseau ([https://cours.brosseau.ovh/](https://cours.brosseau.ovh/))
-{% endfile %}
+{% endembed %}
 
 Il est possible de lancer un serveur Web en local:
 
