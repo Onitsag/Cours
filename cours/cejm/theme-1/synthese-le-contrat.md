@@ -16,4 +16,4 @@ _<mark style="color:red;">**Sinon : Dommages et intérêts**</mark>_
 
 **Pacte de préférence** : Un partie peut ne pas être prête à contracter dans l'immédiat mais apporter des garanties pour l'avenir. (Un partie s'engage à proposer un bien en priorité à une autre partie).
 
-<figure><img src="../../../.gitbook/assets/IMG_20221008_152126 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_20221008_152126.jpg" alt=""><figcaption></figcaption></figure>
