@@ -1,4 +1,4 @@
-# L'intégration de l'entreprise dans son environnement
+# 👩🏫 L'intégration de l'entreprise dans son environnement
 
 ### Marché :&#x20;
 
@@ -18,7 +18,7 @@ Il existe plusieurs types de marché :&#x20;
 
 • <mark style="color:red;">**Le marché du travail**</mark> sur lequel s'échangent une offre et une demande de travail et dont le prix d'échange est le salaire. L'offre de travail émane des ménages et la demande de travail provient des entreprises. Attention, c'est l'inverse si l'on raisonne en termes d'emplois. Dans ce cas, l'offre d'emploi provient des entreprises et la demande d'emploi provient des&#x20;
 
-• Le marché financier sur lequel échangent une offre et une demande de capitaux et dont le prix d'échange est le taux d'intérêt. L'offre de capitaux provient des agents à capacité de financement (les ménages généralement) et la demande de capitaux provient des agents à besoin de financement (les entreprises et l'État).&#x20;
+• Le <mark style="color:red;">**marché financier**</mark> sur lequel échangent une offre et une demande de capitaux et dont le prix d'échange est le taux d'intérêt. L'offre de capitaux provient des agents à capacité de financement (les ménages généralement) et la demande de capitaux provient des agents à besoin de financement (les entreprises et l'État).&#x20;
 
 Il existe plusieurs types de financement possibles pour une entreprise qui ne peut pas se financer seule et qui doit faire appel à un autre agent pour le faire : — le financement externe indirect : dans ce cas, la banque prête de l'argent à l'agent économique en lui octroyant un crédit ;
 

@@ -2,12 +2,12 @@
 description: Partie = Personne physique ou morale qui participe à un acte juridique.
 ---
 
-# Synthèse : Le contrat
+# 👩🏫 Synthèse : Le contrat
 
 ### **Période précontractuelle :** Négociations =
 
 **Pourparlers :** Temps pendant lequel des informations vont être communiqués et les négociations menées. ⚠️ Aucun obligation de contracter au terme des pourparlers mais il y a 3 règles: \
-\- <mark style="color:red;">**Bonne foi**</mark> (comportement légal avec le co-contractant)\
+\- <mark style="color:red;">**Bonne foi**</mark> (comportement légal avec le co-contractant, le contractant ne doit pas nuire à son co-contractants)\
 \- <mark style="color:red;">**L'obligation d'information**</mark>, communiquer les informations qui sont importantes, notamment celle portant sur le contenu du contrat.\
 \- <mark style="color:red;">**Obligation de confidentialité**</mark>, les informations communiquées ne peuvent être divulguées à des tiers.\
 _<mark style="color:red;">**Sinon : Dommages et intérêts**</mark>_
