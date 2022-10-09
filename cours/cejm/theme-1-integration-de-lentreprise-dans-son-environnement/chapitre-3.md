@@ -2,7 +2,13 @@
 description: Partie = Personne physique ou morale qui participe à un acte juridique.
 ---
 
-# 👩🏫 Synthèse : Le contrat
+# 👩🏫 Chapitre 3
+
+<mark style="color:blue;">**Contrat**</mark> : accord de volonté entre deux ou plusieurs personnes appelées "Parties" destiné à créer des obligations. Repose sur le principe de liberté contractuelle, chacun est libre de : \
+\- De conclure ou non le contrat.\
+\- De choisir son cocontractant.\
+\- De définir le contenu sous réserve de respect de l'ordre public (article 6 du Code civil) et des lois qui s'imposent directement aux contractants.\
+\- De déterminer la forme du contrat.
 
 ### **Période précontractuelle :** Négociations =
 
@@ -12,8 +18,11 @@ description: Partie = Personne physique ou morale qui participe à un acte jurid
 \- <mark style="color:red;">**Obligation de confidentialité**</mark>, les informations communiquées ne peuvent être divulguées à des tiers.\
 _<mark style="color:red;">**Sinon : Dommages et intérêts**</mark>_
 
-### **Avant - contrats :**
+Après les pourparlers : contrat définitif mais aussi Avant-contrat.
 
-**Pacte de préférence** : Un partie peut ne pas être prête à contracter dans l'immédiat mais apporter des garanties pour l'avenir. (Un partie s'engage à proposer un bien en priorité à une autre partie).
+### **Avant - contrats (Préparer la conclusion du contrat) :**
+
+<mark style="color:blue;">**Pacte de préférence**</mark>** ** : Un partie peut ne pas être prête à contracter dans l'immédiat mais apporter des garanties pour l'avenir. (Un partie s'engage à proposer un bien en priorité à une autre partie).\
+<mark style="color:blue;">**Promesse synallagmatique**</mark> de contrat qui engage les deux parties.
 
 <figure><img src="../../../.gitbook/assets/IMG_20221008_152126.jpg" alt=""><figcaption></figcaption></figure>
