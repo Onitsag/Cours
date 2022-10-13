@@ -2,6 +2,8 @@
 
 ## Sites utiles
 
+{% embed url="https://www.flaticon.com/fr/" %}
+
 {% embed url="https://www.textstudio.fr/" %}
 Générer un logo personnalisé
 {% endembed %}
